@@ -1,0 +1,282 @@
+[
+  {
+    "spending_id": 1,
+    "category": "Groceries",
+    "description": "Weekly groceries at local market",
+    "amount": 3200,
+    "date": "2025-01-03"
+  },
+  {
+    "spending_id": 2,
+    "category": "Utilities",
+    "description": "January electricity bill",
+    "amount": 2200,
+    "date": "2025-01-07"
+  },
+  {
+    "spending_id": 3,
+    "category": "Transportation",
+    "description": "Taxi rides for the week",
+    "amount": 1500,
+    "date": "2025-01-10"
+  },
+  {
+    "spending_id": 4,
+    "category": "Entertainment",
+    "description": "Movie premiere ticket",
+    "amount": 2800,
+    "date": "2025-01-12"
+  },
+  {
+    "spending_id": 5,
+    "category": "Dining Out",
+    "description": "Lunch at sushi bar",
+    "amount": 3500,
+    "date": "2025-01-20"
+  },
+  {
+    "spending_id": 6,
+    "category": "Health",
+    "description": "Pharmacy purchase",
+    "amount": 4200,
+    "date": "2025-02-02"
+  },
+  {
+    "spending_id": 7,
+    "category": "Shopping",
+    "description": "Clothing sale haul",
+    "amount": 4700,
+    "date": "2025-02-05"
+  },
+  {
+    "spending_id": 8,
+    "category": "Travel",
+    "description": "Bus ticket to Ayutthaya",
+    "amount": 8900,
+    "date": "2025-02-11"
+  },
+  {
+    "spending_id": 9,
+    "category": "Education",
+    "description": "Online workshop fee",
+    "amount": 5100,
+    "date": "2025-02-14"
+  },
+  {
+    "spending_id": 10,
+    "category": "Miscellaneous",
+    "description": "Gift for aunt",
+    "amount": 1800,
+    "date": "2025-02-18"
+  },
+  {
+    "spending_id": 11,
+    "category": "Groceries",
+    "description": "Organic supermarket haul",
+    "amount": 3300,
+    "date": "2025-03-01"
+  },
+  {
+    "spending_id": 12,
+    "category": "Utilities",
+    "description": "Water and waste services",
+    "amount": 2300,
+    "date": "2025-03-04"
+  },
+  {
+    "spending_id": 13,
+    "category": "Transportation",
+    "description": "Fuel refill",
+    "amount": 1600,
+    "date": "2025-03-06"
+  },
+  {
+    "spending_id": 14,
+    "category": "Entertainment",
+    "description": "Concert livestream subscription",
+    "amount": 3000,
+    "date": "2025-03-09"
+  },
+  {
+    "spending_id": 15,
+    "category": "Dining Out",
+    "description": "Dinner with family",
+    "amount": 4000,
+    "date": "2025-03-13"
+  },
+  {
+    "spending_id": 16,
+    "category": "Health",
+    "description": "Gym membership renewal",
+    "amount": 5500,
+    "date": "2025-03-20"
+  },
+  {
+    "spending_id": 17,
+    "category": "Shopping",
+    "description": "New office chair",
+    "amount": 6200,
+    "date": "2025-04-02"
+  },
+  {
+    "spending_id": 18,
+    "category": "Travel",
+    "description": "Flight booking to Bangkok",
+    "amount": 7300,
+    "date": "2025-04-05"
+  },
+  {
+    "spending_id": 19,
+    "category": "Education",
+    "description": "Seminar registration fee",
+    "amount": 4800,
+    "date": "2025-04-08"
+  },
+  {
+    "spending_id": 20,
+    "category": "Miscellaneous",
+    "description": "Charity donation",
+    "amount": 2100,
+    "date": "2025-04-11"
+  },
+  {
+    "spending_id": 21,
+    "category": "Groceries",
+    "description": "Bulk rice and grains",
+    "amount": 2900,
+    "date": "2025-04-15"
+  },
+  {
+    "spending_id": 22,
+    "category": "Utilities",
+    "description": "April internet bill",
+    "amount": 2600,
+    "date": "2025-04-18"
+  },
+  {
+    "spending_id": 23,
+    "category": "Transportation",
+    "description": "Monthly metro pass",
+    "amount": 1400,
+    "date": "2025-05-02"
+  },
+  {
+    "spending_id": 24,
+    "category": "Entertainment",
+    "description": "Theme park entry",
+    "amount": 3200,
+    "date": "2025-05-05"
+  },
+  {
+    "spending_id": 25,
+    "category": "Dining Out",
+    "description": "Seafood restaurant dinner",
+    "amount": 3600,
+    "date": "2025-05-09"
+  },
+  {
+    "spending_id": 26,
+    "category": "Health",
+    "description": "Dental cleaning",
+    "amount": 5100,
+    "date": "2025-05-12"
+  },
+  {
+    "spending_id": 27,
+    "category": "Shopping",
+    "description": "Summer wardrobe shopping",
+    "amount": 4800,
+    "date": "2025-05-16"
+  },
+  {
+    "spending_id": 28,
+    "category": "Travel",
+    "description": "Train to Chiang Rai",
+    "amount": 9200,
+    "date": "2025-05-20"
+  },
+  {
+    "spending_id": 29,
+    "category": "Education",
+    "description": "Programming course subscription",
+    "amount": 3000,
+    "date": "2025-06-01"
+  },
+  {
+    "spending_id": 30,
+    "category": "Miscellaneous",
+    "description": "Printer ink cartridges",
+    "amount": 2000,
+    "date": "2025-06-04"
+  },
+  {
+    "spending_id": 31,
+    "category": "Groceries",
+    "description": "Fresh fruit market visit",
+    "amount": 3400,
+    "date": "2025-06-08"
+  },
+  {
+    "spending_id": 32,
+    "category": "Utilities",
+    "description": "June electricity and water",
+    "amount": 2800,
+    "date": "2025-06-11"
+  },
+  {
+    "spending_id": 33,
+    "category": "Transportation",
+    "description": "Airport shuttle service",
+    "amount": 1700,
+    "date": "2025-06-14"
+  },
+  {
+    "spending_id": 34,
+    "category": "Entertainment",
+    "description": "Live theater show",
+    "amount": 3600,
+    "date": "2025-06-18"
+  },
+  {
+    "spending_id": 35,
+    "category": "Dining Out",
+    "description": "Riverside cafe brunch",
+    "amount": 4100,
+    "date": "2025-07-02"
+  },
+  {
+    "spending_id": 36,
+    "category": "Health",
+    "description": "Vaccination appointment",
+    "amount": 5300,
+    "date": "2025-07-05"
+  },
+  {
+    "spending_id": 37,
+    "category": "Shopping",
+    "description": "Smartwatch purchase",
+    "amount": 5000,
+    "date": "2025-07-09"
+  },
+  {
+    "spending_id": 38,
+    "category": "Travel",
+    "description": "Flight to Phuket",
+    "amount": 9500,
+    "date": "2025-07-13"
+  },
+  {
+    "spending_id": 39,
+    "category": "Education",
+    "description": "eBook bundle on networking",
+    "amount": 4700,
+    "date": "2025-07-17"
+  },
+  {
+    "spending_id": 40,
+    "category": "Miscellaneous",
+    "description": "Home decor items",
+    "amount": 2200,
+    "date": "2025-07-22"
+  }
+]
