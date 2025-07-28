@@ -1,6 +1,6 @@
 # ✅WAD (Section 542) Project-01-SpendingTracker
 A simple and interactive React.js web application to track your daily expenses and manage your budget effectively.
-## [Github Page](https://example.com)
+## [Github Page](https://thar244326.github.io/spending-tracker/#/dashboard)
 
 
 # 👯‍♀️Team Members 
@@ -15,6 +15,7 @@ This application helps users manage their finances by enabling them to:
 - Apply filters to view data by specific dates or categories
 
 # 📸 Screenshots
+
 
 
 
