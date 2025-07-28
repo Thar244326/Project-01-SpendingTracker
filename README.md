@@ -49,8 +49,11 @@ Users can add their personalized usuage categories by clicking add category
 
 # ♻️Run Locally
 git clone https://github.com/Thar244326/spending-tracker.git
+
 cd spendig tracker
+
 pnpm install
+
 pnpm run dev
 
 
