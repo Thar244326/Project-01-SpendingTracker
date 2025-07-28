@@ -32,6 +32,39 @@ Users can add their personalized usuage categories by clicking add category
 ## Journal Page Overview
 <img width="1435" height="781" alt="Image" src="https://github.com/user-attachments/assets/645bc9d9-69ac-4d7d-8218-8fa16d9274ad" />
 
+# 🏳️Features
+
+- **Expense Management**: Easily create, modify, or remove individual expense entries
+- **Visual Analytics Dashboard**: Track your spending patterns with interactive daily, weekly, and monthly charts
+- **Custom Categories**: Add and organize your own expense categories for better tracking
+- **Smart Filtering**: View transactions based on selected months or categories to quickly find what you need
+
+# 📦Built With
+
+- ⚡ [Vite](https://vitejs.dev/) 
+- ⚛️ [React](https://reactjs.org/) 
+- 🎨 [Tailwind CSS](https://tailwindcss.com/) 
+- 📊 [Chart.js](https://www.chartjs.org/) 
+- 🗂️ [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+
+# ♻️Run Locally
+git clone https://github.com/Thar244326/spending-tracker.git
+cd spendig tracker
+pnpm install
+pnpm run dev
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
