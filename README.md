@@ -16,6 +16,8 @@ This application helps users manage their finances by enabling them to:
 - Apply filters to view data by specific dates or categories
 
 # 📸 Screenshots
+## Dashboard Overview
+<img width="1439" height="780" alt="Image" src="https://github.com/user-attachments/assets/b5a194e3-e079-416a-88ee-a2d587dbf2f5" />
 
 
 
